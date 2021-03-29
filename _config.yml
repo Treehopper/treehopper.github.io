@@ -14,9 +14,9 @@ favicon: 'favicon.ico'
 twitter: 'MaxHohenegger'
 github-user: 'Treehopper'
 email: 'business@hohenegger.eu'
-linkedin: 'MaxHohenegger'
+linkedin: 'hohenegger'
 
-social-links-order: [github-user, twitter, linkedin, email]
+social-links-order: [github-user, linkedin, twitter, email]
 
 # Advanced settings
 plugins:
