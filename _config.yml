@@ -15,8 +15,9 @@ twitter: 'MaxHohenegger'
 github-user: 'Treehopper'
 email: 'business@hohenegger.eu'
 linkedin: 'hohenegger'
+stack-overflow: '794836'
 
-social-links-order: [github-user, linkedin, twitter, email]
+social-links-order: [github-user, stack-overflow, linkedin, twitter, email]
 
 # Advanced settings
 plugins:
